@@ -27,4 +27,5 @@
 
 ## 网站
 
-* 掘金：https://juejin.im
+* 掘金，新兴的开发者社区：https://juejin.im
+* 牛客网，去上面看看面经，做做面试题也挺不错的。https://www.nowcoder.com/
